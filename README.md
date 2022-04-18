@@ -1,7 +1,7 @@
 # DataSciencePortfolio
 A collection of data science projects to demonstrate skill sets, knowledge, and what I find fascinating!
 
-## Contents
+## Skills Demonstrated
 - **neural-network-compression**: Machine Learning with PyTorch (Model Training/Evaluation, Parameter Tuning), Android Development with Kotlin and TensorFlow Lite
 
 ## In Progress

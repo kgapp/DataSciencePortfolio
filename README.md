@@ -1,4 +1,4 @@
-# Verify More Skills in the _More Skills_ Folder
+# Verify More Skills in the _More-Skills_ Folder
 Here's a collection of data science projects to demonstrate skill sets, knowledge, and what I find fascinating!
 
 ## Skills Demonstrated
